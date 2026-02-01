@@ -1,2 +1,2 @@
-# G-n-rateur-de-MPD-Python
+# Generateur-de-MPD-Python
 Création d'un générateur de mot de passe simple
